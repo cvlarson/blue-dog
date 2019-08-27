@@ -1,6 +1,8 @@
 # blue-dog
 
 Shopping List
-* Buy milk
-* Ice cream
-* Pudding
+
+- Buy milk
+- Ice cream
+- Pudding
+- Test
