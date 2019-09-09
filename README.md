@@ -1,11 +1,10 @@
 # blue-dog
 
-Shopping List
+Tech List
 
 - Buy milk
 - Ice cream
 - Pudding
-- Test
 
 ![Logo](https://s3.amazonaws.com/visitwinona/wp-content/uploads/2018/08/17063143/smaller-illu.png)
 
@@ -16,9 +15,8 @@ p {color:blue;}
 
 <p>okay is blue</p>
 
-<h1>HTML H1 Test</h1>
+<h1>HTML H1</h1>
 
 
 [Restaurant One](places/Restaurant1.md)
 
-Just a thought...
