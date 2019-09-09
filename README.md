@@ -20,3 +20,5 @@ p {color:blue;}
 
 
 [Restaurant One](places/Restaurant1.md)
+
+Just a thought...
